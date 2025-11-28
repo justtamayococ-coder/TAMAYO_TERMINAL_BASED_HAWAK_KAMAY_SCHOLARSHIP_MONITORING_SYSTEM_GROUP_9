@@ -1,2 +1,2 @@
-# TAMAYO_TERMINAL_BASED_HAWAK_KAMAY_SCHOLARSHIP_MONITORING_SYSTEM_GROUP_9
-DESCIPTION
+# tamayo_terminal_based_hawak_kamay_scholarship_monitoring_system_group_9
+description
