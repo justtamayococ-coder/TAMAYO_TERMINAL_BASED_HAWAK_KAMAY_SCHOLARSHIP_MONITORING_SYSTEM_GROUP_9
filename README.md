@@ -1,2 +1,0 @@
-# tamayo_terminal_based_hawak_kamay_scholarship_monitoring_system_group_9
-description
